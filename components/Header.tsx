@@ -22,7 +22,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <span className="text-2xl font-bold text-blue-600">
-              🧮 DeFi Rates
+              📈 DeFi Rates
             </span>
           </div>
 
